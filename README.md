@@ -1,4 +1,5 @@
 This project encompasses virtually every area of ​​full-stack development: native Android development with Java, consuming and creating REST APIs, data persistence, authentication, relational databases, offline/online synchronization, and a web frontend that reuses the same backend. Beyond resulting in a far more compelling portfolio piece than a standard CRUD application, it demonstrates proficiency in device hardware integration by utilizing the smartphone's physical sensors as part of the gameplay.
+
 Esse projeto reúne praticamente todas as áreas de um desenvolvedor full stack: desenvolvimento Android nativo com Java, consumo e criação de APIs REST, persistência de dados, autenticação, banco de dados relacional, sincronização offline/online e um frontend web reutilizando o mesmo backend. Além de render um portfólio muito mais interessante do que um CRUD tradicional, ele demonstra conhecimentos em integração com hardware do dispositivo, já que utiliza sensores físicos do smartphone como parte da jogabilidade.
 
 
