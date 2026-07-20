@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.facepalmgame"
+    namespace = "com.diogospeck.facepalmgame"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -11,7 +11,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.facepalmgame"
+        applicationId = "com.diogospeck.facepalmgame"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

@@ -1,4 +1,4 @@
-package com.example.facepalmgame;
+package com.diogospeck.facepalmgame.activity;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.facepalmgame", appContext.getPackageName());
+        assertEquals("com.diogospeck.facepalmgame", appContext.getPackageName());
     }
 }

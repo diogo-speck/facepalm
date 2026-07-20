@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">FacePalmGame</string>
+    <string name="jogar">Jogar</string>
+    <string name="entrar">Entrar</string>
+    <string name="senha">Senha</string>
+    <string name="user">Usuário</string>
+    <string name="facepalm_game">FacePalm Game</string>
 </resources>
